@@ -1,0 +1,1 @@
+Cufon.replace('#header ul li, h4, h3, h2, #newsletter-form a, .link', { fontFamily: 'ZapfEllipt BT', hover:true });
