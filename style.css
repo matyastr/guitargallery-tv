@@ -402,6 +402,25 @@ p.txt1 a {
 
 /*========================= CONTENT ===========================*/
 
+#new-site-banner {
+	border: 5px solid #000;
+	border-radius: 10px;
+	margin: 18px;
+	padding: 18px;
+	text-align: center;
+	background-color: #4f4c55;
+}
+
+#new-site-banner p{
+	font-size: xx-large;
+	color: white;
+}
+
+#new-site-banner a{
+	font-size: xx-large;
+	color: white;
+}
+
 #content {
 	padding:7px 19px 41px 19px;
 }
